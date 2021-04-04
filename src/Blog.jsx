@@ -5,7 +5,7 @@ const Blog = () => {
         
     // componentDidMount() {
     //     //ボタンがクリックされたらいいねをカウントアップする
-    //     document.getElementById('counter').addEventListener('click', this.countUp)
+        
     // }
 
     // componentDidUpdate() {
@@ -18,12 +18,9 @@ const Blog = () => {
     //     document.getElementById('counter').removeEventListener('click',this.countUp)
     // }
 
-    //公開状態を反転させる
+    // 公開状態を反転させる
    
 
-    // countUp = () => {
-    //     this.setState({count:this.state.count + 1})
-    // }
 
     
         return (
